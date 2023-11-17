@@ -1,0 +1,23 @@
+body {
+	color: #ccc ;
+	background: #111 ;
+	max-width: 800px ;
+	margin: auto ;
+}
+h1, h2, h3, p { text-align: center;}
+header {
+	text-align: center ;
+	font-size: xx-large ;
+}
+h2, h3, dt {
+    font-weight: bold;
+    color: lime;
+}
+a { 
+    text-decoration: underline;
+    color: inherit;
+}
+footer {
+	text-align: center ;
+	clear: both ;
+}
